@@ -1,7 +1,9 @@
-## Olá Pessoa!
-Olá! Seja bem-vindo(a). 
+## Hello!
+Seja bem-vindo(a). 
 
 Iniciei na área através de um curso no Senai de aprendizagem industrial de programação. Após o término do curso, ingressei como aprendiz na área de tecnologia da informação. Conforme o passar do tempo fui evoluindo até migrar para área de sistemas que estou atualmente.
+
+
 
   ##
  
