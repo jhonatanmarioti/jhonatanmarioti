@@ -1,7 +1,9 @@
 ## Hello!
 Seja bem-vindo(a). 
 
-Iniciei na área através de um curso no Senai de aprendizagem industrial de programação. Após o término do curso, ingressei como aprendiz na área de tecnologia da informação. Conforme o passar do tempo fui evoluindo até migrar para área de sistemas que estou atualmente.
+Profissional dedicado com 8 anos de experiência na área de Tecnologia da Informação. Ao longo da minha carreira, tive a oportunidade de trabalhar em duas empresas, onde desenvolvi habilidades sólidas em suporte técnico e administração de sistemas. Meu foco está em buscar constantemente o aprimoramento das minhas habilidades e contribuir para o sucesso das organizações nas quais atuo.
+
+Atualmente, exerço a função de Analista de Sistemas, sendo responsável pelo suporte técnico a sistemas, implantação de novos sistemas, administração e melhoria contínua dos processos..
 
 
 
