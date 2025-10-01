@@ -1,5 +1,5 @@
 # Olá, sou o Jhonatan Marioti! 👋
-### Desenvolvedor | Entusiasta de Dados, Backend, Automação e IA
+### Analista de Sistemas
 
 Sou um profissional apaixonado por tecnologia e inovação, com foco no desenvolvimento de soluções robustas e eficientes. Acredito que a tecnologia tem o poder de transformar processos e dados em valor real, e estou sempre em busca de novos desafios para aplicar e expandir minhas habilidades. Minha jornada tem sido impulsionada pela curiosidade e pelo desejo contínuo de aprender e contribuir para projetos significativos.
 
