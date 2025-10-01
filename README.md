@@ -8,22 +8,24 @@ Sou um profissional apaixonado por tecnologia e inovação, com foco no desenvol
 Atualmente, tenho um sólido conhecimento e experiência prática nas seguintes tecnologias:
 
 *   **Bancos de Dados e Gerenciamento de Dados:**
-    *   SQL (para consultas e manipulação de dados em diversos sistemas)
-    *   OracleDB (experiência com gerenciamento e otimização de bancos de dados Oracle)
-    *   Oracle APEX (desenvolvimento de aplicações web empresariais de forma rápida e eficiente)
+    *   SQL 
+    *   OracleDB 
+    *   Oracle APEX 
 *   **Conteinerização e DevOps:**
-    *   Docker (para construir, empacotar e executar aplicações de forma consistente em qualquer ambiente)
+    *   Docker
+    *   Windows Server
+    *   Linux
 *   **Automação e Integrações:**
-    *   N8N (ferramenta de automação de fluxo de trabalho que permite conectar diversas APIs e serviços, agilizando processos)
+    *   N8N
 *   **Inteligência Artificial e Processamento de Linguagem Natural:**
-    *   LLM (Large Language Models - conhecimento em como interagir, orquestrar e integrar modelos de linguagem grandes para diversas aplicações)
+    *   Aprimorando conhecimentos em LLM
 
 Estou em constante aprimoramento e dedicando tempo para expandir minhas competências, com foco especial nas seguintes áreas:
 
 *   **Desenvolvimento Backend:**
-    *   Python (aprofundando em frameworks como Flask/Django para API's e microsserviços, além de automação e scripts)
+    *   Python
 *   **Desenvolvimento Frontend:**
-    *   React (construindo interfaces de usuário modernas e responsivas, explorando o ecossistema e ferramentas como Redux/Context API)
+    *   React
  
 <div> 
   <a href="https://instagram.com/marioti_j" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
