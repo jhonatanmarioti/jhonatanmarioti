@@ -1,13 +1,29 @@
-## Hello!
-Seja bem-vindo(a). 
+# Olá, sou o Jhonatan Marioti! 👋
+### Desenvolvedor | Entusiasta de Dados, Backend, Automação e IA
 
-Profissional dedicado com 8 anos de experiência na área de Tecnologia da Informação. Ao longo da minha carreira, tive a oportunidade de trabalhar em duas empresas, onde desenvolvi habilidades sólidas em suporte técnico e administração de sistemas. Meu foco está em buscar constantemente o aprimoramento das minhas habilidades e contribuir para o sucesso das organizações nas quais atuo.
+Sou um profissional apaixonado por tecnologia e inovação, com foco no desenvolvimento de soluções robustas e eficientes. Acredito que a tecnologia tem o poder de transformar processos e dados em valor real, e estou sempre em busca de novos desafios para aplicar e expandir minhas habilidades. Minha jornada tem sido impulsionada pela curiosidade e pelo desejo contínuo de aprender e contribuir para projetos significativos.
 
-Atualmente, exerço a função de Analista de Sistemas, sendo responsável pelo suporte técnico a sistemas, implantação de novos sistemas, administração e melhoria contínua dos processos..
+## Minhas Habilidades Técnicas
 
+Atualmente, tenho um sólido conhecimento e experiência prática nas seguintes tecnologias:
 
+*   **Bancos de Dados e Gerenciamento de Dados:**
+    *   SQL (para consultas e manipulação de dados em diversos sistemas)
+    *   OracleDB (experiência com gerenciamento e otimização de bancos de dados Oracle)
+    *   Oracle APEX (desenvolvimento de aplicações web empresariais de forma rápida e eficiente)
+*   **Conteinerização e DevOps:**
+    *   Docker (para construir, empacotar e executar aplicações de forma consistente em qualquer ambiente)
+*   **Automação e Integrações:**
+    *   N8N (ferramenta de automação de fluxo de trabalho que permite conectar diversas APIs e serviços, agilizando processos)
+*   **Inteligência Artificial e Processamento de Linguagem Natural:**
+    *   LLM (Large Language Models - conhecimento em como interagir, orquestrar e integrar modelos de linguagem grandes para diversas aplicações)
 
-  ##
+Estou em constante aprimoramento e dedicando tempo para expandir minhas competências, com foco especial nas seguintes áreas:
+
+*   **Desenvolvimento Backend:**
+    *   Python (aprofundando em frameworks como Flask/Django para API's e microsserviços, além de automação e scripts)
+*   **Desenvolvimento Frontend:**
+    *   React (construindo interfaces de usuário modernas e responsivas, explorando o ecossistema e ferramentas como Redux/Context API)
  
 <div> 
   <a href="https://instagram.com/marioti_j" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
