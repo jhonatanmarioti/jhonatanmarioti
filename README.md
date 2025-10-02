@@ -1,36 +1,67 @@
-# Olá, sou o Jhonatan Marioti! 👋
-### Analista de Sistemas
+# 👋 Olá, eu sou o **Jhonatan Marioti**  
+### 💻 Analista de Sistemas | 🚀 Apaixonado por Tecnologia e Inovação  
 
-Sou um profissional apaixonado por tecnologia e inovação, com foco no desenvolvimento de soluções robustas e eficientes. Acredito que a tecnologia tem o poder de transformar processos e dados em valor real, e estou sempre em busca de novos desafios para aplicar e expandir minhas habilidades. Minha jornada tem sido impulsionada pela curiosidade e pelo desejo contínuo de aprender e contribuir para projetos significativos.
+Sou um profissional movido pela curiosidade e pelo desejo contínuo de aprender. Tenho foco no desenvolvimento de soluções robustas e eficientes, transformando **dados e processos em valor real**.  
 
-## Minhas Habilidades Técnicas
+---
 
-Atualmente, tenho um sólido conhecimento e experiência prática nas seguintes tecnologias:
+## 🚀 Minhas Habilidades  
 
-*   **Bancos de Dados e Gerenciamento de Dados:**
-    *   SQL 
-    *   OracleDB 
-    *   Oracle APEX 
-*   **Conteinerização e DevOps:**
-    *   Docker
-    *   Windows Server
-    *   Linux
-*   **Automação e Integrações:**
-    *   N8N
-*   **Inteligência Artificial e Processamento de Linguagem Natural:**
-    *   Aprimorando conhecimentos em LLM
+### 🔹 Bancos de Dados  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-Estou em constante aprimoramento e dedicando tempo para expandir minhas competências, com foco especial nas seguintes áreas:
+### 🔹 Conteinerização & DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-*   **Desenvolvimento Backend:**
-    *   Python
-*   **Desenvolvimento Frontend:**
-    *   React
- 
-<div> 
-  <a href="https://instagram.com/marioti_j" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/fs9NWQfS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jhonatan.marioti8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonatan-marioti-9a2bb6177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+### 🔹 Automação & Integrações  
+![N8N](https://img.shields.io/badge/n8n-EA4E62?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🔹 Inteligência Artificial & NLP  
+![AI](https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🔹 Desenvolvimento  
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+  <a href="https://github.com/JhonatanMarioti">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanMarioti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMarioti&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
+
+---
+
+## 🐍 Contribuições  
+![snake gif](https://github.com/JhonatanMarioti/JhonatanMarioti/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Onde me encontrar  
+
+<div align="center">
+  <a href="https://instagram.com/marioti_j" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/fs9NWQfS" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:jhonatan.marioti8@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jhonatan-marioti-9a2bb6177/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>  
+
+---
+
+✨ *“A tecnologia só tem valor real quando transforma vidas e negócios.”*  
