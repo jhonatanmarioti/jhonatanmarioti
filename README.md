@@ -1,5 +1,5 @@
-# 👋 Olá, eu sou o **Jhonatan Marioti**  
-### 💻 Analista de Sistemas | 🚀 Apaixonado por Tecnologia e Inovação  
+# HI, eu sou o **Jhonatan Marioti**  
+### 💻 Analista de Sistemas | 🚀 
 
 Profissional dedicado com 9 anos de experiência na área de Tecnologia da Informação. Ao longo da minha carreira, tive a oportunidade de trabalhar em duas empresas, onde desenvolvi habilidades sólidas em suporte técnico e administração de sistemas. Meu foco está em buscar constantemente o aprimoramento das minhas habilidades e contribuir para o sucesso das organizações nas quais atuo.
 
