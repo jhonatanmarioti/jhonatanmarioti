@@ -9,30 +9,18 @@ Atualmente, exerço a função de Analista de Sistemas, sendo responsável pelo 
 
 ## 🚀 Minhas Habilidades  
 
-### 🔹 Bancos de Dados  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🔹 Conteinerização & DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔹 Automação & Integrações  
 ![N8N](https://img.shields.io/badge/n8n-EA4E62?style=for-the-badge&logo=n8n&logoColor=white)
-
-### 🔹 Inteligência Artificial & NLP  
 ![AI](https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🔹 Desenvolvimento  
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
-
-
-
 ## 🌐 Onde me encontrar  
 
 <div align="center">
