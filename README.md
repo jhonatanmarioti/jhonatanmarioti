@@ -29,21 +29,7 @@ Sou um profissional movido pela curiosidade e pelo desejo contínuo de aprender.
 
 ---
 
-## 📊 Estatísticas do GitHub  
 
-<div align="center">
-  <a href="https://github.com/JhonatanMarioti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanMarioti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMarioti&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-## 🐍 Contribuições  
-![snake gif](https://github.com/JhonatanMarioti/JhonatanMarioti/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌐 Onde me encontrar  
 
